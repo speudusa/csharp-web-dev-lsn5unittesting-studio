@@ -7,6 +7,10 @@ namespace BalancedBracketsNS
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            BalancedBrackets.HasBalancedBrackets("This is a string");
+
+
         }
     }
 }
